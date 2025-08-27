@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PhpDisallowedDateTimeFunctionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDisallowedHtmlspecialcharsFunctionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDisallowedJsonFunctionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDisallowedPregFunctionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpDisallowedTriggerErrorFunctionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpGlobalVariableAccessCookieInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpGlobalVariableAccessGetInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpGlobalVariableAccessPostInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpGlobalVariableAccessRequestInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpGlobalVariableAccessServerInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
